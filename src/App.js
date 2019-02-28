@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import TestComponent from './TestComponent';
+import TestComponentTwo from './TestComponentTwo';
 import './App.css';
 
 class App extends Component {
@@ -7,7 +8,11 @@ class App extends Component {
     return (
       <div className="App">
         <h1>Hey this is a lyft clone where i'm going to practice parallax</h1>
+        <TestComponent />
+        ----------------
+        <TestComponentTwo />
       </div>
+
     );
   }
 }
