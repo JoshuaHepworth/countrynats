@@ -3,9 +3,9 @@ ul {
 	margin: 0;
 	padding: 0;
 	height:100px;
-	background-color: #9BE5F3;
+	background-color: white;
 	text-align: right;
-	border-bottom: 1px solid #1850A5;
+	/*border-bottom: 1px solid #1850A5;*/
 }
 ul li {
 	display: inline-flex;
@@ -13,7 +13,7 @@ ul li {
 	justify-content: center;
 	margin-left: 40px;
 	margin-right: 20px;
-	margin-top: 50px;
+	margin-top: 35px;
 	font-size: 25px;
 }
 ul li:hover {

@@ -3,6 +3,7 @@ import TestComponent from './TestComponent';
 import TestComponentTwo from './TestComponentTwo';
 import NavBarComponent from './NavBarComponent';
 import BottomComponent from './BottomComponent';
+import { Divider } from 'semantic-ui-react';
 import './App.css';
 
 class App extends Component {
@@ -23,6 +24,9 @@ class App extends Component {
               <br/>
               <br/>
               <br/>
+
+              <Divider >
+              </Divider>
               <div className="bottomPart">
                 <BottomComponent />
               </div>

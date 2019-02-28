@@ -1,19 +1,11 @@
+.App {
+        padding-bottom: 36em;
+}
 .topPart{
-	/*text-align: center;*/
 	min-height: 100vh;
-    /*display: flex;*/
-    background: #9BE5F3;
-    box-shadow: 0 20px 30px rgba(0, 0, 0, 0.1);
+    background: #009CDF;
+    box-shadow: 0 50px 50px rgba(0, 0, 0, 0.1);
     position: relative;
     height: 90%;
     z-index: 100;
-}
-
-.bottomPart {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    z-index: 0;
-    background-color: white;
 }
