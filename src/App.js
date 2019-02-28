@@ -11,6 +11,12 @@ class App extends Component {
               <div className="topPart">
                     <NavBarComponent />
               </div>
+              <br/>
+              <br/>
+              <br/>
+              <br/>
+              <br/>
+              <br/>
               <div className="bottomPart">
                     <h1>Hey this is a lyft clone where i'm going to practice parallax</h1>
                     <TestComponent />

@@ -1,18 +1,23 @@
 .topPart{
-  text-align: center;
-  height: 200px;
-  /*z-index: 2;*/
-  border: 1px solid black;
+
+	text-align: center;
+	min-height: 100vh;
+    display: flex;
+    background: lavender;
+    box-shadow: 0 20px 30px rgba(0, 0, 0, 0.1);
+    position: relative;
+    height: 100%;
+    z-index: 100;
 }
 
 .bottomPart {
-/*    position: fixed;*/
     bottom: 0;
     left: 0;
     right: 0;
-    /*z-index: 2;*/
-    /*position: fixed;*/
+    z-index: 2;
+    position: fixed;
     background-color: white;
     height: 200px;
-    border: 1px solid black;
+    /*border: 1px solid black;*/
+
 }
