@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import TestComponent from './TestComponent';
 import TestComponentTwo from './TestComponentTwo';
 import NavBarComponent from './NavBarComponent';
+import BottomComponent from './BottomComponent';
 import './App.css';
 
 class App extends Component {
@@ -17,11 +18,13 @@ class App extends Component {
               <br/>
               <br/>
               <br/>
+              <br/>
+              <br/>
+              <br/>
+              <br/>
+              <br/>
               <div className="bottomPart">
-                    <h1>Hey this is a lyft clone where i'm going to practice parallax</h1>
-                    <TestComponent />
-                    ----------------
-                    <TestComponentTwo />
+                <BottomComponent />
               </div>
             
             </div>

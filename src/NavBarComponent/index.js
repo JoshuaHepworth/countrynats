@@ -9,7 +9,7 @@ class NavBarComponent extends Component {
         		<li></li>
         		<li>Home</li>
         		<li>About</li>
-        		<li>PlaceHolder1</li>
+        		<li>Stuff</li>
         		<li>Contact</li>
         	</ul>
         )
