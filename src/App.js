@@ -30,6 +30,8 @@ class App extends Component {
               </Divider>
               <div className="bottomPart">
                 <ProjectCardButton />
+                <ProjectCardButton />
+                <ProjectCardButton />
                 <BottomComponent />
               </div>
             

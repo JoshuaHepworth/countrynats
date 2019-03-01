@@ -3,11 +3,13 @@ body{
 }
 
 .container{
+  display: inline-flex;
   margin:auto;
-  width:600px;
+  width:33%;
 }
 
 .article-card{
+  justify-content: space-between;
   width:300px;
   color:#000;
   border-radius:15px;
