@@ -7,6 +7,7 @@ import { Container, Row, Col } from 'reactstrap';
 class BottomComponent extends Component {
     render(){
         return(
+        		<div>
             	<footer>
 	  				<div className="rounded-social-buttons">
 	                    <a className="social-button facebook" href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook-f"></i></a>
@@ -16,6 +17,7 @@ class BottomComponent extends Component {
 	                    <a className="social-button instagram" href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a>
 	                </div>
 				</footer>
+				</div>
         )
     }
 }

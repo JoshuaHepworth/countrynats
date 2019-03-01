@@ -16,7 +16,10 @@ ul li {
 	margin-top: 35px;
 	font-size: 25px;
 }
+ul li.ft {
+	float: left;
+}
 ul li:hover {
-	background-color: #9BE5F3;
 	opacity: .5;
 }
+

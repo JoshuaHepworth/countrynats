@@ -6,7 +6,7 @@ class NavBarComponent extends Component {
     render(){
         return(
         	<ul className="navBarComponent">
-        		<li></li>
+        		<li className="ft">FT</li>
         		<li>Home</li>
         		<li>About</li>
         		<li>Stuff</li>
