@@ -5,6 +5,11 @@ import ProjectCardComponent from './ProjectCardComponent';
 import ProjectCardComponentTwo from './ProjectCardComponentTwo';
 import { Divider } from 'semantic-ui-react';
 import './App.css';
+import { library } from '@fortawesome/fontawesome-svg-core'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faIgloo } from '@fortawesome/free-solid-svg-icons'
+
+library.add(faIgloo)
 
 class App extends Component {
   render() {
