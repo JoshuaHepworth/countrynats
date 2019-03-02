@@ -17,6 +17,8 @@ class App extends Component {
       <div className="App">
               <div className="topPart">
                     <NavBarComponent />
+                    <div className="welcomeButton">Filip Tatarnik
+                    </div>
               </div>
               <br/>
               <br/>

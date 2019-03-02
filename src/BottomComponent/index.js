@@ -14,7 +14,7 @@ class BottomComponent extends Component {
 	                    	<i className="fab fa-youtube"></i>
 	                    </a>
 	                    <a className="social-button facebook" href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer">
-	                    	<FontAwesomeIcon icon="facebook-f" />
+	                    	<FontAwesomeIcon icon="coffee" />
 	                    </a>
 	                    <a className="social-button twitter" href="https://www.twitter.com/" target="_blank" rel="noopener noreferrer">
 	                    	<i className="fab fa-twitter"></i>
