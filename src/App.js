@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import NavBarComponent from './NavBarComponent';
 import BottomComponent from './BottomComponent';
-import ProjectCardButton from './ProjectCardComponent';
+import ProjectCardComponent from './ProjectCardComponent';
+import ProjectCardComponentTwo from './ProjectCardComponentTwo';
 import { Divider } from 'semantic-ui-react';
 import './App.css';
 
@@ -27,10 +28,9 @@ class App extends Component {
               <Divider >
               </Divider>
               <div className="bottomPart">
-                <ProjectCardButton />
-                <ProjectCardButton />
-                <ProjectCardButton />
-                <ProjectCardButton />
+                <ProjectCardComponent />
+                <ProjectCardComponentTwo />
+
                 <BottomComponent />
               </div>
             
