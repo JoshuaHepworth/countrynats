@@ -1,6 +1,4 @@
 import React, { Component } from 'react';
-import TestComponent from './TestComponent';
-import TestComponentTwo from './TestComponentTwo';
 import NavBarComponent from './NavBarComponent';
 import BottomComponent from './BottomComponent';
 import ProjectCardButton from './ProjectCardComponent';
@@ -29,6 +27,7 @@ class App extends Component {
               <Divider >
               </Divider>
               <div className="bottomPart">
+                <ProjectCardButton />
                 <ProjectCardButton />
                 <ProjectCardButton />
                 <ProjectCardButton />

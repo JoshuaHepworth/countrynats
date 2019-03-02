@@ -9,7 +9,6 @@ body{
 }
 
 .article-card{
-  justify-content: space-between;
   width:300px;
   color:#000;
   border-radius:15px;
