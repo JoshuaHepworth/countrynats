@@ -20,7 +20,7 @@ class App extends Component {
                     <div className="welcomePageDiv">
                       <div className="myName">Filip Tatarnik
                         <div className="welcomeButton">
-                          <button>Welcome</button>
+                          <button className="welcome">Welcome</button>
                           </div>
                       </div>
                     </div>
