@@ -39,11 +39,20 @@ class App extends Component {
 
               <Divider >
               </Divider>
+
               <div className="bottomPart">
                 <ProjectCardComponent />
                 <ProjectCardComponentTwo />
 
                 <BottomComponent />
+              </div>
+              <div className="bottomBlueBar">
+
+              </div>
+              <Divider>
+              </Divider>
+              <div className="bottomBlueBar">
+
               </div>
             
             </div>
