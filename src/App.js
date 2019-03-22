@@ -19,7 +19,7 @@ class App extends Component {
         <div className="topPart">
           <NavBarComponent />
             <div className="welcomePageDiv">
-              <img className="logo" src="https://i.imgur.com/pxVbBGN.jpg" />
+              <img className="logo" src="https://i.imgur.com/h7jS0qv.png" />
             </div>
         </div>
               <br/>
