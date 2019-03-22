@@ -15,16 +15,12 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-              <div className="topPart">
-                    <NavBarComponent />
-                    <div className="welcomePageDiv">
-                      <img className="logo" src="https://i.imgur.com/uXNMwVt.jpg" />
-                        <div className="welcomeButton">
-                          <button className="welcome">Welcome</button>
-                          </div>
-                      </div>
-                  
-              </div>
+        <div className="topPart">
+          <NavBarComponent />
+            <div className="welcomePageDiv">
+              <img className="logo" src="https://i.imgur.com/uXNMwVt.jpg" />
+            </div>
+        </div>
               <br/>
               <br/>
               <br/>
