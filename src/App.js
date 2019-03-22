@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import NavBarComponent from './NavBarComponent';
 import BottomComponent from './BottomComponent';
+import ImageContainer from './ImageContainer'
 import ProjectCardComponent from './ProjectCardComponent';
 import ProjectCardComponentTwo from './ProjectCardComponentTwo';
 import { Divider } from 'semantic-ui-react';
@@ -18,7 +19,7 @@ class App extends Component {
         <div className="topPart">
           <NavBarComponent />
             <div className="welcomePageDiv">
-              <img className="logo" src="https://i.imgur.com/uXNMwVt.jpg" />
+              <img className="logo" src="https://i.imgur.com/pxVbBGN.jpg" />
             </div>
         </div>
               <br/>
@@ -37,8 +38,7 @@ class App extends Component {
               </Divider>
 
               <div className="bottomPart">
-                <ProjectCardComponent />
-                <ProjectCardComponentTwo />
+                <ImageContainer />
 
                 <BottomComponent />
               </div>

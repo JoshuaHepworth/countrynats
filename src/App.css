@@ -28,12 +28,12 @@
 .logo {
   position: relative;
   margin: auto;
-  top: -200px;
+  top: -300px;
   right: 238px;
   bottom: 0;
   left: -220px;
-  height: 300px;
-  width: 600px;
+  height: 350px;
+  width: 650px;
 }
 .myName {
 	margin: 0 auto;
