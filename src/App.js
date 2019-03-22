@@ -18,12 +18,12 @@ class App extends Component {
               <div className="topPart">
                     <NavBarComponent />
                     <div className="welcomePageDiv">
-                      <div className="myName">Filip Tatarnik
+                      <img className="logo" src="https://i.imgur.com/uXNMwVt.jpg" />
                         <div className="welcomeButton">
                           <button className="welcome">Welcome</button>
                           </div>
                       </div>
-                    </div>
+                  
               </div>
               <br/>
               <br/>
