@@ -51,35 +51,15 @@ class RecipeReviewCard extends React.Component {
 
     return (
       <Card className={classes.card}>
-        <CardHeader
-          action={
-            <IconButton>
-            
-            </IconButton>
-          }
-          title="Shrimp and Chorizo Paella"
-          subheader="September 14, 2016"
-        />
         <CardMedia
           className={classes.media}
-          image="/static/images/cards/paella.jpg"
-          title="Paella dish"
+          image="https://i.imgur.com/86Dw9BP.jpg"
         />
-        <CardContent>
-          <Typography component="p">
-            This impressive paella is a perfect party dish and a fun meal to cook together with your
-            guests. Add 1 cup of frozen peas along with the mussels, if you like.
-          </Typography>
-        </CardContent>
         <CardActions className={classes.actions} disableActionSpacing>
         </CardActions>
         <Collapse in={this.state.expanded} timeout="auto" unmountOnExit>
           <CardContent>
             <Typography paragraph>Method:</Typography>
-            <Typography paragraph>
-              Heat 1/2 cup of the broth in a pot until simmering, add saffron and set aside for 10
-              minutes.
-            </Typography>
           </CardContent>
         </Collapse>
       </Card>
