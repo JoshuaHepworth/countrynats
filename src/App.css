@@ -3,7 +3,8 @@
 }
 .topPart{
 	min-height: 100vh;
-    background-image: url("https://images.pexels.com/photos/301378/pexels-photo-301378.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-image: url("https://images.pexels.com/photos/326333/pexels-photo-326333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  
     background-size: auto;
     background-repeat: no-repeat;
     box-shadow: 0 50px 50px rgba(0, 0, 0, 0.1);
@@ -31,9 +32,9 @@
   top: -200px;
   right: 238px;
   bottom: 0;
-  left: -270px;
-  height: 450px;
-  width: 750px;
+  left: -290px;
+  height: 550px;
+  width: 850px;
 }
 .myName {
 	margin: 0 auto;
