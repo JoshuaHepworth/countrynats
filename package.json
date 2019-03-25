@@ -12,6 +12,7 @@
     "npm": "^6.8.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
+    "react-images": "^0.5.19",
     "react-scripts": "2.1.5",
     "react-social-icons": "^4.1.0",
     "reactstrap": "^7.1.0",

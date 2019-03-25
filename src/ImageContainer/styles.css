@@ -1,0 +1,12 @@
+.img {
+	position: relative;
+	top: 100px;
+	left: 250px;
+	bottom: 100px;
+	height: 400px;
+	width: 400px;
+	padding: 20px;
+}
+.explore {
+	text-align: center;
+}
