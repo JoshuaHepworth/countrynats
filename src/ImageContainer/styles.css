@@ -3,10 +3,15 @@
 	top: 100px;
 	left: 250px;
 	bottom: 100px;
-	height: 400px;
-	width: 400px;
-	padding: 20px;
+	height: 80%;
+	width: 68%;
+	padding: 0px;
 }
 .explore {
 	text-align: center;
+}
+body {
+}
+div {
+	display: block;
 }

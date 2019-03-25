@@ -3,7 +3,7 @@
 }
 .topPart{
 	min-height: 100vh;
-    background-image: url("https://images.pexels.com/photos/326333/pexels-photo-326333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-image: url("https://images.pexels.com/photos/172291/pexels-photo-172291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
   
     background-size: auto;
     background-repeat: no-repeat;
@@ -29,11 +29,11 @@
 .logo {
   position: relative;
   margin: auto;
-  top: -200px;
+  top: -130px;
   right: 238px;
   bottom: 0;
   left: -290px;
-  height: 550px;
+  height: 650px;
   width: 850px;
 }
 .myName {
