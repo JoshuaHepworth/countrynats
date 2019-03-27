@@ -1,12 +1,13 @@
 import React from "react";
 import { MDBContainer, MDBRow, MDBCol } from "mdbreact";
+import './styles.css'
 
 class MasksPage extends React.Component {
   render() {
     return (
       <MDBContainer className="mt-5">
         <MDBRow>
-          <MDBCol lg="12" md="12" className="mb-4">
+          <MDBCol lg="12" md="12" className="ml-3">
             <img src="https://i.imgur.com/GtzPbKm.jpg" className="img-fluid z-depth-1" alt="" />
           </MDBCol>
           <MDBCol lg="12" md="6" className="mb-4">

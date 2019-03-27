@@ -1,13 +1,4 @@
-.img {
-	position: relative;
-	text-align: center;
-	top: 100px;
-	left: 250px;
-	bottom: 100px;
-	height: 80%;
-	width: 68%;
-	padding: 0px;
-}
+
 .explore {
 	text-align: center;
 	font-size: 50px;
@@ -17,6 +8,9 @@ body {
 	height: 100%;
 }
 div {
-	text-align: center;
 	display: block;
+	text-align: center;
+}
+img {
+	border: 2px solid black;
 }
