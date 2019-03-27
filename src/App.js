@@ -3,9 +3,12 @@ import NavBarComponent from './NavBarComponent';
 import BottomComponent from './BottomComponent';
 import AppBarComponent from './AppBarComponent'
 import ImageContainer from './ImageContainer'
+import {Route, Switch} from 'react-router-dom'
+import AboutContainer from './AboutContainer'
+import FooterComponent from './FooterComponent'
 import ProjectCardComponent from './ProjectCardComponent';
 import ProjectCardComponentTwo from './ProjectCardComponentTwo';
-import { Divider } from 'semantic-ui-react';
+import Divider from '@material-ui/core/Divider';
 import './App.css';
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
@@ -24,34 +27,14 @@ class App extends Component {
               <img className="logo" src="https://i.imgur.com/ZABKfFN.png" />
             </div>
         </div>
-              <br/>
-              <br/>
-              <br/>
-              <br/>
-              <br/>
-              <br/>
-              <br/>
-              <br/>
-              <br/>
-              <br/>
-              <br/>
+         
 
-              <Divider >
-              </Divider>
-
-              <div className="bottomPart">
                 <ImageContainer />
-
-                <BottomComponent />
-              </div>
-              <div className="bottomBlueBar">
-
-              </div>
-              <Divider>
-              </Divider>
-              <div className="bottomBlueBar">
-
-              </div>
+                <br/>
+                <br/>
+                <br/>
+                <Divider />
+                <FooterComponent/>
             
             </div>
     );

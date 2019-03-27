@@ -1,5 +1,6 @@
 .img {
 	position: relative;
+	text-align: center;
 	top: 100px;
 	left: 250px;
 	bottom: 100px;
@@ -9,9 +10,13 @@
 }
 .explore {
 	text-align: center;
+	font-size: 100px;
+	padding: 0px;
 }
 body {
+	height: 100%;
 }
 div {
+	text-align: center;
 	display: block;
 }
