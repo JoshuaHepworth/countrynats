@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import NavBarComponent from './NavBarComponent';
 import BottomComponent from './BottomComponent';
+import AppBarComponent from './AppBarComponent'
 import ImageContainer from './ImageContainer'
 import ProjectCardComponent from './ProjectCardComponent';
 import ProjectCardComponentTwo from './ProjectCardComponentTwo';
@@ -17,7 +18,8 @@ class App extends Component {
     return (
       <div className="App">
         <div className="topPart">
-          <NavBarComponent />
+          <AppBarComponent />
+          
             <div className="welcomePageDiv">
               <img className="logo" src="https://i.imgur.com/ZABKfFN.png" />
             </div>
@@ -33,7 +35,7 @@ class App extends Component {
               <br/>
               <br/>
               <br/>
-              
+
               <Divider >
               </Divider>
 
