@@ -4,6 +4,7 @@
 	font-size: 50px;
 	padding: 0px;
 }
+
 body {
 	height: 100%;
 }
@@ -11,6 +12,7 @@ div {
 	display: block;
 	text-align: center;
 }
-img {
-	border: 2px solid black;
+.img-fluid {
+	
 }
+.mt-5 {}
