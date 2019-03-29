@@ -13,7 +13,7 @@ import './styles.css'
 const styles = {
   root: {
     flexGrow: 1,
-    color: "white",
+    backgroundColor: "blue500",
   },
   grow: {
     flexGrow: 1,
@@ -29,14 +29,14 @@ function ButtonAppBar(props) {
   const { classes } = props;
   return (
     <div className={classes.root}>
-      <AppBar className="nav" color="default" position="static">
+      <AppBar style={{ backgroundColor: 'black' }} color="default" position="static">
         <Toolbar>
           <IconButton className={classes.menuButton} color="inherit" aria-label="Menu">
           </IconButton>
-          <Typography variant="h6" color="inherit" className={classes.grow}>
+          <Typography style={{ color: 'white' }} variant="h6" color="default" className={classes.grow}>
             <strong>316 Campbell Street, Geneva, IL</strong>
           </Typography>
-          <Typography variant="h6" color="inherit" className={classes.menuButton}>
+          <Typography style={{ color: 'white' }} variant="h6" color="default" className={classes.menuButton}>
             <strong>(630) 232-1172</strong>
           </Typography>
         </Toolbar>
