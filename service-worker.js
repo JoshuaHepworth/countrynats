@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/JoshuaHepworth/countrynats/precache-manifest.9977425dba81f1be04463140cd3c202b.js"
+  "/countrynats/precache-manifest.4d9f3fe0fe98c415ae2fc5e7ef038efd.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/JoshuaHepworth/countrynats/index.html", {
+workbox.routing.registerNavigationRoute("/countrynats/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
