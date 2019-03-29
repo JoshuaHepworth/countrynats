@@ -27,7 +27,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": "https://joshuahepworth.github.io/countrynats/",
+    "homepage": "https://github.com/JoshuaHepworth/countrynats",
     "deploy": "gh-pages -d build",
   },
   "eslintConfig": {
