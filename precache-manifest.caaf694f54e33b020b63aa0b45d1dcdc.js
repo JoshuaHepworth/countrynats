@@ -4,20 +4,20 @@ self.__precacheManifest = [
     "url": "/countrynats/static/media/arrow_left.11911410.svg"
   },
   {
-    "revision": "29262e977a60aee947a7",
-    "url": "/countrynats/static/css/main.dd1e3fab.chunk.css"
+    "revision": "b601a9e912ee2da51b53",
+    "url": "/countrynats/static/css/main.bf065555.chunk.css"
   },
   {
     "revision": "d2881105433eec2c1fb8",
     "url": "/countrynats/static/js/runtime~main.d2881105.js"
   },
   {
-    "revision": "e31fcf1885e371e19f5786c2bdfeae1b",
-    "url": "/countrynats/static/media/Roboto-Bold.e31fcf18.ttf"
+    "revision": "46e48ce0628835f68a7369d0254e4283",
+    "url": "/countrynats/static/media/Roboto-Light.46e48ce0.ttf"
   },
   {
-    "revision": "7b1e6ae995f792f3fea3",
-    "url": "/countrynats/static/js/2.7b1e6ae9.chunk.js"
+    "revision": "6f875fdc7de9b4da0e86",
+    "url": "/countrynats/static/js/2.6f875fdc.chunk.js"
   },
   {
     "revision": "e6257a726a0cf6ec8c6fec22821c055f",
@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/countrynats/static/media/fa-regular-400.427d721b.woff"
   },
   {
-    "revision": "dcce4b7fbd5e895561e18af4668265af",
-    "url": "/countrynats/static/media/fa-regular-400.dcce4b7f.eot"
-  },
-  {
     "revision": "65b9977aa23185e8964b36eddbce7a20",
     "url": "/countrynats/static/media/fa-regular-400.65b9977a.ttf"
+  },
+  {
+    "revision": "dcce4b7fbd5e895561e18af4668265af",
+    "url": "/countrynats/static/media/fa-regular-400.dcce4b7f.eot"
   },
   {
     "revision": "5e2f92123d241cabecf0b289b9b08d4a",
@@ -52,12 +52,12 @@ self.__precacheManifest = [
     "url": "/countrynats/static/media/fa-solid-900.a7140145.woff"
   },
   {
-    "revision": "a7b95dbdd87e0c809570affaf366a434",
-    "url": "/countrynats/static/media/fa-brands-400.a7b95dbd.eot"
-  },
-  {
     "revision": "98b6db59be947f563350d2284fc9ea36",
     "url": "/countrynats/static/media/fa-brands-400.98b6db59.ttf"
+  },
+  {
+    "revision": "a7b95dbdd87e0c809570affaf366a434",
+    "url": "/countrynats/static/media/fa-brands-400.a7b95dbd.eot"
   },
   {
     "revision": "5eb754ab7dbd2fee562360528db4c3c0",
@@ -84,8 +84,12 @@ self.__precacheManifest = [
     "url": "/countrynats/static/media/arrow_right.8ef6a08c.svg"
   },
   {
-    "revision": "29262e977a60aee947a7",
-    "url": "/countrynats/static/js/main.29262e97.chunk.js"
+    "revision": "b601a9e912ee2da51b53",
+    "url": "/countrynats/static/js/main.b601a9e9.chunk.js"
+  },
+  {
+    "revision": "dfe56a876d0282555d1e2458e278060f",
+    "url": "/countrynats/static/media/Roboto-Thin.dfe56a87.eot"
   },
   {
     "revision": "a990f611f2305dc12965f186c2ef2690",
@@ -94,10 +98,6 @@ self.__precacheManifest = [
   {
     "revision": "30799efa5bf74129468ad4e257551dc3",
     "url": "/countrynats/static/media/Roboto-Regular.30799efa.eot"
-  },
-  {
-    "revision": "dfe56a876d0282555d1e2458e278060f",
-    "url": "/countrynats/static/media/Roboto-Thin.dfe56a87.eot"
   },
   {
     "revision": "4d9f3f9e5195e7b074bb63ba4ce42208",
@@ -116,10 +116,6 @@ self.__precacheManifest = [
     "url": "/countrynats/static/media/Roboto-Light.69f8a061.woff2"
   },
   {
-    "revision": "574fd0b50367f886d359e8264938fc37",
-    "url": "/countrynats/static/media/Roboto-Medium.574fd0b5.woff2"
-  },
-  {
     "revision": "2751ee43015f9884c3642f103b7f70c9",
     "url": "/countrynats/static/media/Roboto-Regular.2751ee43.woff2"
   },
@@ -128,8 +124,16 @@ self.__precacheManifest = [
     "url": "/countrynats/static/media/Roboto-Bold.39b2c303.woff2"
   },
   {
+    "revision": "574fd0b50367f886d359e8264938fc37",
+    "url": "/countrynats/static/media/Roboto-Medium.574fd0b5.woff2"
+  },
+  {
     "revision": "7500519de3d82e33d1587f8042e2afcb",
     "url": "/countrynats/static/media/Roboto-Thin.7500519d.woff"
+  },
+  {
+    "revision": "ba3dcd8903e3d0af5de7792777f8ae0d",
+    "url": "/countrynats/static/media/Roboto-Regular.ba3dcd89.woff"
   },
   {
     "revision": "3b813c2ae0d04909a33a18d792912ee7",
@@ -144,16 +148,8 @@ self.__precacheManifest = [
     "url": "/countrynats/static/media/Roboto-Bold.dc81817d.woff"
   },
   {
-    "revision": "ba3dcd8903e3d0af5de7792777f8ae0d",
-    "url": "/countrynats/static/media/Roboto-Regular.ba3dcd89.woff"
-  },
-  {
     "revision": "94998475f6aea65f558494802416c1cf",
     "url": "/countrynats/static/media/Roboto-Thin.94998475.ttf"
-  },
-  {
-    "revision": "46e48ce0628835f68a7369d0254e4283",
-    "url": "/countrynats/static/media/Roboto-Light.46e48ce0.ttf"
   },
   {
     "revision": "df7b648ce5356ea1ebce435b3459fd60",
@@ -164,11 +160,15 @@ self.__precacheManifest = [
     "url": "/countrynats/static/media/Roboto-Medium.894a2ede.ttf"
   },
   {
-    "revision": "7b1e6ae995f792f3fea3",
-    "url": "/countrynats/static/css/2.a6a3a87a.chunk.css"
+    "revision": "e31fcf1885e371e19f5786c2bdfeae1b",
+    "url": "/countrynats/static/media/Roboto-Bold.e31fcf18.ttf"
   },
   {
-    "revision": "0ac3722406f5e26ec5c7e3b420be22f7",
+    "revision": "6f875fdc7de9b4da0e86",
+    "url": "/countrynats/static/css/2.53f1b6b9.chunk.css"
+  },
+  {
+    "revision": "f21b952f1c38658e350dbed9e9245d21",
     "url": "/countrynats/index.html"
   }
 ];
