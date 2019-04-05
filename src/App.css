@@ -1,14 +1,10 @@
 
-.topPart{
-  min-height: 100vh;
+.view {
     background-image: url("https://images.pexels.com/photos/172291/pexels-photo-172291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
-  
-    background-size: auto;
-    background-repeat: no-repeat;
-    box-shadow: 0 50px 50px rgba(0, 0, 0, 0.1);
-    position: relative;
-    height: 50px;
-    z-index: 100;
+ background-repeat: no-repeat;
+background-size: cover;
+background-position: center center;
+max-height: 60vh;
 }
 .logo {
   position: relative;
