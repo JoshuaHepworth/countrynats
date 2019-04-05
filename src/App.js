@@ -10,6 +10,7 @@ import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faIgloo } from '@fortawesome/free-solid-svg-icons'
 import { MDBContainer, MDBRow, MDBCol, MDBView } from "mdbreact"
+import AboutModal from './AboutModal'
 
 library.add(faIgloo)
 
@@ -31,7 +32,7 @@ class App extends Component {
             </MDBView>
         </div>
          
-
+                <AboutModal />
                 <ImageContainer />
                 <br/>
                 <br/>
