@@ -9,6 +9,7 @@ import './App.css';
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faIgloo } from '@fortawesome/free-solid-svg-icons'
+import { MDBContainer, MDBRow, MDBCol } from "mdbreact"
 
 library.add(faIgloo)
 
@@ -20,7 +21,11 @@ class App extends Component {
           <AppBarComponent />
           
             <div className="welcomePageDiv">
-              <img className="logo" src="https://i.imgur.com/ZABKfFN.png" />
+            <MDBRow>
+              <MDBCol>
+                <img src="https://i.imgur.com/ZABKfFN.png" className="rounded mx-auto d-block" alt="aligment" />
+              </MDBCol>
+            </MDBRow>
             </div>
         </div>
          
