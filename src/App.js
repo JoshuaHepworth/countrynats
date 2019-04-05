@@ -21,11 +21,13 @@ class App extends Component {
           <AppBarComponent />
           
             <div className="welcomePageDiv">
+            <MDBContainer className="mt-5">
             <MDBRow>
               <MDBCol>
-                <img src="https://i.imgur.com/ZABKfFN.png" className="rounded mx-auto d-block" alt="aligment" />
+                <img src="https://i.imgur.com/ZABKfFN.png" className="rounded mx-auto d-block img-fluid" alt="aligment" />
               </MDBCol>
             </MDBRow>
+            </MDBContainer>
             </div>
         </div>
          
