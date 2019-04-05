@@ -1,3 +1,16 @@
+.explore {
+	text-align: center;
+	font-size: 50px;
+	padding: 0px;
+}
+
 body {
-	color: red;
+	height: 100%;
+}
+div {
+	display: block;
+	text-align: center;
+}
+.img-fluid {
+
 }

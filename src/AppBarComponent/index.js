@@ -37,7 +37,7 @@ function ButtonAppBar(props) {
             <strong>316 Campbell Street, Geneva, IL</strong>
           </Typography>
           <Typography style={{ color: 'white' }} variant="h6" color="default" className={classes.menuButton}>
-            <strong>(630) 232-1172 blah blah blah</strong>
+            <strong>(630) 232-1172</strong>
           </Typography>
         </Toolbar>
       </AppBar>
