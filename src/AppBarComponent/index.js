@@ -17,7 +17,7 @@ render() {
   return (
       <MDBNavbar color="black" dark expand="md">
         <MDBNavbarBrand>
-          <strong className="white-text">316 Campbell Street, Geneva, IL</strong>
+          <strong className="white-text">316 Campbell St, Geneva, IL</strong>
         </MDBNavbarBrand>
         <MDBNavbarToggler onClick={this.toggleCollapse} />
         <MDBCollapse id="navbarCollapse3" isOpen={this.state.isOpen} navbar>
