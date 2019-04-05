@@ -1,17 +1,17 @@
 {
-  "main.css": "/countrynats/static/css/main.cca61609.chunk.css",
-  "main.js": "/countrynats/static/js/main.e063d7dc.chunk.js",
-  "main.js.map": "/countrynats/static/js/main.e063d7dc.chunk.js.map",
+  "main.css": "/countrynats/static/css/main.41b5080f.chunk.css",
+  "main.js": "/countrynats/static/js/main.8056f703.chunk.js",
+  "main.js.map": "/countrynats/static/js/main.8056f703.chunk.js.map",
   "runtime~main.js": "/countrynats/static/js/runtime~main.d2881105.js",
   "runtime~main.js.map": "/countrynats/static/js/runtime~main.d2881105.js.map",
   "static/css/2.386abad7.chunk.css": "/countrynats/static/css/2.386abad7.chunk.css",
   "static/js/2.8f4f663a.chunk.js": "/countrynats/static/js/2.8f4f663a.chunk.js",
   "static/js/2.8f4f663a.chunk.js.map": "/countrynats/static/js/2.8f4f663a.chunk.js.map",
   "index.html": "/countrynats/index.html",
-  "precache-manifest.1a75d8c54a84914f404ae907337f29a1.js": "/countrynats/precache-manifest.1a75d8c54a84914f404ae907337f29a1.js",
+  "precache-manifest.e7446c22d2fb7484356c5313a8568051.js": "/countrynats/precache-manifest.e7446c22d2fb7484356c5313a8568051.js",
   "service-worker.js": "/countrynats/service-worker.js",
   "static/css/2.386abad7.chunk.css.map": "/countrynats/static/css/2.386abad7.chunk.css.map",
-  "static/css/main.cca61609.chunk.css.map": "/countrynats/static/css/main.cca61609.chunk.css.map",
+  "static/css/main.41b5080f.chunk.css.map": "/countrynats/static/css/main.41b5080f.chunk.css.map",
   "static/media/mdb.css": "/countrynats/static/media/arrow_right.8ef6a08c.svg",
   "static/media/all.min.css": "/countrynats/static/media/fa-solid-900.ff8d9f8a.ttf"
 }
