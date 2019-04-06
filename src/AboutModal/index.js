@@ -4,9 +4,6 @@ import './styles.css'
 
 class ModalPage extends Component {
 state={
-  modal2: false,
-  modal3: false,
-  modal4: false,
   modal5: false
 }
 
@@ -22,7 +19,7 @@ render() {
     <MDBContainer>
       <MDBBtn className="button" color="black" onClick={this.toggle(5)}>Learn more</MDBBtn>
       <MDBModal isOpen={this.state.modal5} toggle={this.toggle(5)} size="large">
-        <MDBModalHeader toggle={this.toggle(5)}>About us</MDBModalHeader>
+        <MDBModalHeader toggle={this.toggle(5)}><strong>About us</strong></MDBModalHeader>
         <MDBModalBody>
          <strong>Discover the warmth of this circa 1850 historic 12 room house filled with farmhouse accents, candles, natural soaps, florals, primitives, garden and vintage finds.</strong>
          <br/>
