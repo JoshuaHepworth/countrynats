@@ -26,13 +26,13 @@ class App extends Component {
             <MDBRow>
               <MDBCol>
                 <img src="https://i.imgur.com/ZABKfFN.png" className="rounded mx-auto d-block img-fluid" alt="aligment" />
+                <AboutModal />
               </MDBCol>
             </MDBRow>
             </MDBContainer>
             </MDBView>
         </div>
          
-                <AboutModal />
                 <ImageContainer />
                 <br/>
                 <br/>
