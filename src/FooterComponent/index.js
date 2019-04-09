@@ -25,8 +25,9 @@ const FooterPage = () => {
             </p>
           </MDBCol>
           <MDBCol md="4">
-            <h4 className="title"><strong>Like us on Facebook</strong></h4>
+            <h4 className="title"><strong>Follow us</strong></h4>
             <MDBBtn size="md" gradient="indigo" a href="https://www.facebook.com/CountryNaturals/"><MDBIcon fab icon="facebook" size="5x" /></MDBBtn>
+            <MDBBtn size="md" gradient="indigo" a href="https://www.instagram.com/countrynaturals/"><MDBIcon fab icon="instagram" size="5x" /></MDBBtn>
           </MDBCol>
         </MDBRow>
       </MDBContainer>

@@ -32,7 +32,7 @@ class App extends Component {
             </MDBContainer>
             </MDBView>
         </div>
-         
+            <br/>
                 <ImageContainer />
                 <br/>
                 <br/>
