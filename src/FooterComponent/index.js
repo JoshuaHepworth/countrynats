@@ -14,6 +14,9 @@ const FooterPage = () => {
             <p>
               316 Campbell Street,<br/> Geneva, IL, 60134
             </p>
+             <p>
+            countrynaturals@sbcglobal.net
+            </p>
           </MDBCol>
            <MDBCol md="4">
             <h4 className="title"><strong>Store hours</strong></h4>
